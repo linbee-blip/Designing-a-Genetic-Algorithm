@@ -1,2 +1,2 @@
-# Designing-a-Genetic-Algorithm
-This code is intended for designing a genetic algorithm that evolves a solution x = { x1,x2 } that maximizes a function subject to constraints.
+# The Puzzle
+Given an empty rectangular frame of length L and width W and N rectangular tiles, write a GA that arranges the tiles in the Frame in such a way that it minimizes the free space.
